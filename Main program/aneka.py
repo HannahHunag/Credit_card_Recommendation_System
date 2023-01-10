@@ -38,8 +38,8 @@ db = SQLAlchemy(app)
 
 
 # 定義 LIFF ID
-liff_id_for_submit = '1657724613-dgE1eNAY'
-liff_id_for_cancel = '1657726399-bXj6BKLE'
+liff_id_for_submit = '***'
+liff_id_for_cancel = '***'
 
 
 # LIFF靜態頁面
